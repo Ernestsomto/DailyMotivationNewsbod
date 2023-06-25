@@ -1,0 +1,133 @@
+*{
+    margin-top: 3px;
+    
+}
+
+body{
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    
+}
+
+
+/* this is the nav section*/
+.Nav {
+    width: 100%;
+}
+.Navbar img {
+    width: 35px;
+    height: 35px;
+    border: 0px;
+    
+}
+
+.Navbar {
+    width: 70%;
+    height: 50px;
+    margin-left: 15%;
+    background-color: #fff;
+    background-image: url(/Images/logobackgroundmain.jpg);
+    background-repeat: no-repeat;
+}
+
+/* this is the logo section*/
+.logo {
+    display: inline-flex;
+    font-size: 12px;
+    
+}
+
+.logo p {
+    display: inline-flex;
+    font-size: 12px;
+    font-weight: lighter;
+    font-family: cursive;
+    margin-left: 4px;
+    
+}
+
+/* this is the img section*/
+img {
+    border: 5px solid #fff;
+    width: 100%;
+    height: 25%;
+
+}
+
+/* this is the motivation card section*/
+.Motivational-card h2, p {
+    color: #fff;
+    background-color: black;
+    text-align: center;
+
+}
+
+.Motivational-card{
+    width: 50%;
+    margin-left: 25%;
+}
+
+/* this is the element section*/
+#Element1 h1 {
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+
+}
+
+#Element2 h1 {
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+
+}
+
+#Element3 h1 {
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+
+}
+
+#Element4 h1 {
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+
+}
+
+#Element5 h1 {
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+
+}
+
+
+/*footer should be an image with black ground and little fire too*/
+.footer{
+    width: 70%;
+    height: 70px;
+    margin-left: 15%;
+    background-color: #fff;
+    font-weight: 200px;
+    font-family: cursive;
+    background-image: url(/Images/logobackgroundmain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.footer h4 {
+    font-size: 15px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.footer p{
+    font-size: 12px;
+    background-color: transparent;
+}
+
